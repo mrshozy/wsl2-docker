@@ -114,5 +114,3 @@ Contributions are welcome! Please open an issue or submit a pull request on GitH
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
-
-Replace `yourusername` and `yourrepository` with your actual GitHub username and repository name. This README provides a comprehensive guide for users to install Docker on WSL 2 using the provided script.
